@@ -7,3 +7,7 @@
 [ 2024-02-27 00:16:50,089 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
 [ 2024-02-27 00:16:50,272 ] Using spritesheet cache size of 910
 [ 2024-02-27 00:16:51,344 ] Asset loading complete
+[ 2024-02-27 00:19:10,588 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-02-27 00:19:10,749 ] Using spritesheet cache size of 910
+[ 2024-02-27 00:19:11,806 ] Asset loading complete
+[ 2024-02-27 00:19:11,899 ] Could not find Sound Effect ID 688
