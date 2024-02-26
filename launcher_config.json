@@ -23,7 +23,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "bin"
 		}
 	],
-	"clientFolder": "Tibia",
+	"clientFolder": "tibia-client-release",
 	"newClientUrl" : "https://github.com/Mimsol/tibia-client/archive/refs/tags/release.zip",
 	"clientExecutable": "client.exe"
 }
