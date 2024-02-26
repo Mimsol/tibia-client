@@ -1,0 +1,9 @@
+[ 2024-02-27 00:15:18,310 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-02-27 00:15:18,550 ] Using spritesheet cache size of 910
+[ 2024-02-27 00:15:19,226 ] Asset loading complete
+[ 2024-02-27 00:15:19,964 ] Client is started for first the time.
+[ 2024-02-27 00:15:21,337 ] The source list for Content Security Policy directive 'script-src' contains an invalid source: ''wasm-unsafe-eval''. It will be ignored.
+[ 2024-02-27 00:15:21,689 ] The source list for Content Security Policy directive 'script-src' contains an invalid source: ''wasm-unsafe-eval''. It will be ignored.
+[ 2024-02-27 00:16:50,089 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2024-02-27 00:16:50,272 ] Using spritesheet cache size of 910
+[ 2024-02-27 00:16:51,344 ] Asset loading complete
