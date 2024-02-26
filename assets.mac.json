@@ -1,0 +1,53 @@
+{
+  "files": [
+    {
+      "localfile": "Contents/Resources/assets/appearances-68247fd68843f1b1adb0a198cfc439f325a196592cb843b7c3e99d9b7a46f315.dat",
+      "packedhash": "d33da2053c8686bb5c11ecf403a13556b2ab25764dd91c35f8c6c1012e3d5d35",
+      "packedsize": 733186,
+      "url": "assets/appearances-68247fd68843f1b1adb0a198cfc439f325a196592cb843b7c3e99d9b7a46f315.dat.lzma",
+      "unpackedhash": "68247fd68843f1b1adb0a198cfc439f325a196592cb843b7c3e99d9b7a46f315",
+      "unpackedsize": 4119280
+    },
+    {
+      "localfile": "Contents/Resources/assets/staticdata-920db3d32897f496cca6f810f1cc6625187ea95fcf1e349fb1a1b3ce70e69a47.dat",
+      "packedhash": "5dfe8dc8c63ab03d953994bc611225de4c42abcb4a433f5ca544c2c376baad8d",
+      "packedsize": 56970,
+      "url": "assets/staticdata-920db3d32897f496cca6f810f1cc6625187ea95fcf1e349fb1a1b3ce70e69a47.dat.lzma",
+      "unpackedhash": "920db3d32897f496cca6f810f1cc6625187ea95fcf1e349fb1a1b3ce70e69a47",
+      "unpackedsize": 160628
+    },
+    {
+      "localfile": "Contents/Resources/assets/staticmapdata-0a80d44e0a55e38bd087b9106f379efb2196193ef332f8b70480015d4cc1633f.dat",
+      "packedhash": "242db2ab1d5032da60f9245e75cb903523b683fb2ab1187c179d2f3b5207a486",
+      "packedsize": 180523,
+      "url": "assets/staticmapdata-0a80d44e0a55e38bd087b9106f379efb2196193ef332f8b70480015d4cc1633f.dat.lzma",
+      "unpackedhash": "0a80d44e0a55e38bd087b9106f379efb2196193ef332f8b70480015d4cc1633f",
+      "unpackedsize": 1454891
+    },
+    {
+      "localfile": "Contents/Resources/assets/catalog-content.json",
+      "packedhash": "7d4c1630595a75361cc7dd494fed319379eea8922698a3e7fa9f67f250332bd3",
+      "packedsize": 201039,
+      "url": "assets/catalog-content.json.lzma",
+      "unpackedhash": "dcfb578f05ad726ca3c268727ae4e65f8c12f8d7d172a452ad840552a057f1aa",
+      "unpackedsize": 853899
+    },
+    {
+      "localfile": "Contents/Resources/assets/map-60aefdee298b4d94752fbc242385f003102c5d97e164d7237dd1594172d833fe.dat",
+      "packedhash": "c71e4da01fdaa48d1c4dae736b87a2697fc80ef52809bbf2397393c3838710e1",
+      "packedsize": 71606,
+      "url": "assets/map-60aefdee298b4d94752fbc242385f003102c5d97e164d7237dd1594172d833fe.dat.lzma",
+      "unpackedhash": "60aefdee298b4d94752fbc242385f003102c5d97e164d7237dd1594172d833fe",
+      "unpackedsize": 178851
+    },
+    {
+      "localfile": "Contents/Resources/sounds/sounds-c961305fff7f489a27d0e029e6e551bc5d3a067aeeaca7e67af385722c206da5.dat",
+      "packedhash": "65efd755137a6d356ef7cf0e9c27430f0b9b4efbf5a820d5c63e7466cf08a3a4",
+      "packedsize": 35549,
+      "url": "sounds/sounds-c961305fff7f489a27d0e029e6e551bc5d3a067aeeaca7e67af385722c206da5.dat.lzma",
+      "unpackedhash": "c961305fff7f489a27d0e029e6e551bc5d3a067aeeaca7e67af385722c206da5",
+      "unpackedsize": 88416
+    }
+  ],
+  "version": 32571
+}
